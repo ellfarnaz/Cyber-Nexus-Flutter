@@ -1,9 +1,6 @@
-Saya akan membantu membuat file README.md yang lebih informatif untuk project Cyber Nexus:
+Ya, benar. Mari update README.md dengan mengganti bagian "[Screenshots coming soon]" dengan screenshot yang sudah ada:
 
-```plaintext
-pearCreateFile: README.md
-```
-```markdown
+````markdown
 # 🌟 Cyber Nexus
 
 A cyberpunk-themed Flutter application featuring a futuristic interface with neon aesthetics and advanced UI components.
@@ -20,7 +17,25 @@ A cyberpunk-themed Flutter application featuring a futuristic interface with neo
 
 ## 📱 Screenshots
 
-[Screenshots coming soon]
+<p align="center">
+  <img src="https://i.imgur.com/t8IovXc.png" width="200" alt="Splash Screen"/>
+  <img src="https://i.imgur.com/Xip5GWG.png" width="200" alt="Home Screen List"/>
+  <img src="https://i.imgur.com/CuQrjPG.png" width="200" alt="Home Screen Grid"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/RGkEQjj.png" width="200" alt="Search Screen"/>
+  <img src="https://i.imgur.com/CsAoEZV.png" width="200" alt="Profile Screen"/>
+</p>
+
+### Features Showcase:
+
+- **Splash Screen**: Dynamic animation with cyberpunk aesthetic
+- **Home Screen**:
+  - List view for detailed product information
+  - Grid view for compact product browsing
+- **Search Screen**: Real-time product filtering with cyberpunk-styled UI
+- **Profile Screen**: User achievements and stats with neon accents
 
 ## 🛠️ Prerequisites
 
@@ -31,21 +46,26 @@ A cyberpunk-themed Flutter application featuring a futuristic interface with neo
 ## ⚙️ Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/ellfarnaz/Cyber-Nexus-Flutter.git
 ```
+````
 
 2. Navigate to project directory:
+
 ```bash
 cd Cyber-Nexus-Flutter
 ```
 
 3. Install dependencies:
+
 ```bash
 flutter pub get
 ```
 
 4. Run the app:
+
 ```bash
 flutter run
 ```
@@ -83,18 +103,7 @@ Farel Naufal Azhari
 ## 📞 Contact
 
 - GitHub: [@ellfarnaz](https://github.com/ellfarnaz)
+
 ```
 
-README ini mencakup:
-1. Deskripsi singkat proyek
-2. Fitur utama
-3. Panduan instalasi
-4. Skema warna yang digunakan
-5. Dependencies
-6. Informasi kontribusi
-7. Lisensi
-8. Informasi author
-9. Placeholder untuk screenshots
-10. Format markdown yang rapi dengan emoji untuk visual yang lebih menarik
-
-Anda bisa menyesuaikan kontennya sesuai kebutuhan, terutama bagian screenshots, dependencies tambahan, dan informasi kontak lainnya.
+```
