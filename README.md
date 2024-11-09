@@ -1,6 +1,4 @@
-Ya, benar. Mari update README.md dengan mengganti bagian "[Screenshots coming soon]" dengan screenshot yang sudah ada:
 
-````markdown
 # 🌟 Cyber Nexus
 
 A cyberpunk-themed Flutter application featuring a futuristic interface with neon aesthetics and advanced UI components.
@@ -29,9 +27,8 @@ A cyberpunk-themed Flutter application featuring a futuristic interface with neo
 </p>
 
 ### Features Showcase:
-
 - **Splash Screen**: Dynamic animation with cyberpunk aesthetic
-- **Home Screen**:
+- **Home Screen**: 
   - List view for detailed product information
   - Grid view for compact product browsing
 - **Search Screen**: Real-time product filtering with cyberpunk-styled UI
@@ -46,26 +43,21 @@ A cyberpunk-themed Flutter application featuring a futuristic interface with neo
 ## ⚙️ Installation
 
 1. Clone the repository:
-
 ```bash
 git clone https://github.com/ellfarnaz/Cyber-Nexus-Flutter.git
 ```
-````
 
 2. Navigate to project directory:
-
 ```bash
 cd Cyber-Nexus-Flutter
 ```
 
 3. Install dependencies:
-
 ```bash
 flutter pub get
 ```
 
 4. Run the app:
-
 ```bash
 flutter run
 ```
@@ -104,6 +96,4 @@ Farel Naufal Azhari
 
 - GitHub: [@ellfarnaz](https://github.com/ellfarnaz)
 
-```
 
-```
