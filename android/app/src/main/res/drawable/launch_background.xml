@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:angle="315"
+                android:endColor="#000000"
+                android:startColor="#000000"
+                android:centerColor="#1A237E"
+                android:type="linear" />
+        </shape>
+    </item>
+    <!-- Tambahkan TextView untuk CYBER NEXUS -->
+    <item android:gravity="center">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/splash_text" />
+    </item>
+</layer-list>
